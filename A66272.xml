@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King and Queen, a proclamation concerning colours to be worn on board ships</title>
+            <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66272</idno>
+            <idno type="STC">Wing W2558</idno>
+            <idno type="STC">ESTC R37258</idno>
+            <idno type="EEBO-CITATION">16287533</idno>
+            <idno type="OCLC">ocm 16287533</idno>
+            <idno type="VID">105257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105257)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1602:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King and Queen, a proclamation concerning colours to be worn on board ships</title>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+                  <author>Mary II, Queen of England, 1662-1694.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and the executrix of Thomas Newcomb deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XCIV [1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Whitehall, the twelfth day of July, 1694, in the sixth year of our reign."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:105257:1"/>
+            <!-- PDF PAGE 15 -->
+            <head>By tne King and Queen, A PROCLAMATION, Concerning COLOURS to be worn on Board Ships.</head>
+            <opener>
+               <signed>MARIE R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers of Their Majeſties Subjects have of late preſumed on Board their Ships to wear Their Maje<g ref="char:EOLhyphen"/>ſties Iacks, Pendants and Enſigns, which according to Ancient Vſage have been appointed as a diſtinction for Their Majeſties Ships, and many times thinking to evade the puniſhment due for the ſame, have worn Iacks, Pendants and Enſigns in ſhape and mixture of Colours ſo little different from thoſe of Their Maje<g ref="char:EOLhyphen"/>ſties, as not without difficulty to be diſtinguiſhed therefrom, which practice is found attended with manifold Inconveniences: For prevention of the ſame for the future, Their Majeſties have thought fit, with the Ad<g ref="char:EOLhyphen"/>vice of Their Privy Council, by this Their Royal Proclamation, ſtrictly to Charge and Command all Their Subjects whatſoever, That they do not preſume to wear in any of their Ships or Veſſels, Their Majeſties Iack, commonly called the Vnion Iack, nor any Pendants, nor any ſuch Enſigns or Colours as are uſually born by Their Majeſties Ships, without particular Warrant for their ſo doing from Their Majeſties, or the Lord High Admiral of <hi>England,</hi> or the Commiſſioners for executing the Office of Lord High Admiral for the time being. And Their Majeſties do hereby alſo further Command all Their Loving Subjects, that with<g ref="char:EOLhyphen"/>out ſuch warrant as aforeſaid, they preſume not to wear on Board their Ships or Veſſels, any Iacks, Pendants, Enſigns or Colours, made in imitation of thoſe of Their Majeſties, or any other Flags, Iacks, Pendants or Enſigns what<g ref="char:EOLhyphen"/>ſoever, than thoſe uſually worn in Merchants Ships, <hi>Viz.</hi> The Flag and Iack White, with a Red Croſs, commonly called St. <hi>George's</hi> Croſs, paſſing quite thougt the ſame, and the Enſign Red, with the like Croſs in a Canton White at the upper Corner thereof next the Staff, nor any kind of Pendant whatſoever, ſaving that for the better Diſtinction of ſuch Ships as ſhall have Commiſſions of Letters of Mart or Repriſals againſt the Enemy, and any other Ships or Veſſels which may be employed by the Principal Officers and Com<g ref="char:EOLhyphen"/>miſſioners of Their Majeſties Navy, the Principal Officers of Their Majeſties Ordnance, the Commiſſioners for Victualling Their Majeſties Navy, the Commiſſioners for Their Majeſties Cuſtoms, and the Commiſſioners for Tranſportation for Their Majeſties Ser<g ref="char:EOLhyphen"/>vices, relating particularly to thoſe Offices. Their Majeſties do Command that all ſuch Ships as have Commiſſions of Letters of Mart or Repriſals, ſhall beſides the Colours which may be worn by Merchants Ships, wear a Red Iack, with the Vnion Iacks, deſcribed in a Canton at the upper Corner thereof next the Staff; And that ſuch Ships and Veſſels as ſhall be employed for Their Majeſties Ser<g ref="char:EOLhyphen"/>vice, by the Principal Officers and Commiſſioners of Their Majeſties Navy, the Principal Officers of Their Majeſties Ordnance, the Commiſſioners for Victualling Their Majeſties Navy, the Commiſſioners for Their Majeſties Cuſtoms, and the Commiſſioners for Tranſportation for Their Majeſties Services, relating particularly to thoſe Officers, ſhall wear a Red Iack with the Vnion Iack in a Canton at the upper Corner thereof next the Staff, as aforeſaid, and in the other part of the ſaid Iack ſhall be deſcribed the Seal uſed in the reſpective Offices aforeſaid, by which the ſaid Ships and Veſſels ſhall be employed. And Their Majeſties do s;trictly Charge and Com<g ref="char:EOLhyphen"/>mand That none of Their Loving Subjects do preſume to wear any of the ſaid Diſtinction Iacks, unleſs they ſhall have Commiſſions of Letters of Mart or Repriſals, or be employed in Their Majeſties Service by the before mentioned Offices reſpectively. And Their Majeſties do hereby require the principal Officers and Commiſſioners of Their Majeſties Navy, the Governours of Their Forts and Caſtles, the Officers of Their Cuſtoms, and the Commanders or Officers of any of Their Majeſties Ships, upon their meeting with, or otherwiſe obſerving any Ships on Veſſels of Their Majeſtes Subjects, wearing any Flag, Pendant, Iack or Enſign contrary hereunto, whether at Sea or in Port, not only to Seize, or cauſe ſuch Flag, Pendant, Iack or Enſign to be forthwith Seized, but alſo to Return the Names of the ſaid Ships, and Veſſels, together with the Names of their reſpective Ma<g ref="char:EOLhyphen"/>ſters or Commanders, unto the Lord High Admiral, Commiſſioners for executing the Office of Lord High Admiral, or the Iudge of the High Court of Admiralty for the time being, to the end that the perſons offending may be duly puniſhed for the ſame. And Their Majeſties to hereby Command and Enjoyn the Iudge and Iudges of the High Court of Admiralty for the time being, That they make ſtrict Enquiry, and caus;e all ſuch Offenders to be duly puniſhed. And all Vice-Admirals, and Iudges of the Vice-Admiralties are alſo to do the ſame, and attend the due Obſervation hereof within the ſeveral Ports and Places belonging to their reſpective Precincts. And Their Majeſties further Pleaſure is, That this Proclamation ſhall take place according to the times hereafter mentioned, <hi>Viz.</hi> For all Ships in the Channel or <hi>Britiſh</hi> Seas, and in the <hi>North</hi> Sea after Twelve Days from the Date of theſe Preſents; And from the Month of the Channel unto Cape St. <hi>Vincent</hi> after Six Weeks from the Date of theſe Preſents; And beyond the Cape, and on this ſide the <hi>Aequinoctial</hi> Line, as well the Ocean and <hi>Mediterranean</hi> as elſewhere, after Ten Weéks from the Date of theſe preſents; And beyond the Line after the ſpace of Eight Months from the Date of theſe preſents.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi> 
+                  <date>the Twelfth Day of <hi>July,</hi> 1694. In the Sixth Year of Our Reign.</date>
+               </dateline>
+               <lb/>
+God ſave King William and Queen Mary.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd; Printers to the King and Queens moſt Excellent Majeſties. MDCXCIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
